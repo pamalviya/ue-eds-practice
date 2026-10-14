@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--ue-eds-practice--pamalviya.aem.page/
+- Live: https://main--ue-eds-practice--pamalviya.aem.live/
 
 ## Documentation
 
